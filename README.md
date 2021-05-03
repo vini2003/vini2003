@@ -7,8 +7,8 @@ I work with Kotlin and Java, and am currently doing work for TommyInnit. I've be
 - [Minecraft’s Black Hole Mod Is Very Funny](https://www.youtube.com/watch?v=cd4ILT8LDoI), whose repository is [here](https://github.com/vini2003/Black-Hole).
 - [Minecraft’s Body Shuffle Mod Is Stupidly Funny](https://www.youtube.com/watch?v=h9stFKuPGa8), whose repository is [here](https://github.com/vini2003/Body-Shuffle).
 - [Minecraft’s Gas Mod is actually funny...](https://www.youtube.com/watch?v=UFZ5EMTcehA), whose repository is [here](https://github.com/vini2003/Harmful-Gas).
-- [Minecraft, But The Floor Is Lava...](https://www.youtube.com/watch?v=rLSSaUv6DwQ), whose repository is [here](https://github.com/vini2003/The-Floor-Is-Lava).
-- [Minecraft, But The Void Is Rising...](https://www.youtube.com/watch?v=rLSSaUv6DwQ), whose repository is [here](https://github.com/vini2003/Void-Rising).
+- [Minecraft, But The Floor Is Lava...](https://www.youtube.com/watch?v=rLSSaUv6DwQ), whose repository is [here](https://github.com/vini2003/Void-Rising).
+- [Minecraft, But The Void Is Rising...](https://www.youtube.com/watch?v=rLSSaUv6DwQ), whose repository is [here](https://github.com/vini2003/The-Floor-Is-Lava).
 
 Supporting those projects, were the following mods:
 
