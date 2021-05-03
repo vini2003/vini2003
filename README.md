@@ -34,3 +34,4 @@ As for other contributions, most of which happened at the start of my developmen
 - [Linkart](https://github.com/vini2003/Linkart), adding cart linking.
 - [Bamboo Tweaks](https://github.com/vini2003/Bamboo-Tweaks), adding more uses to Bamboo.
 - [Astromine](https://github.com/Mixinors/Astromine), adding space, technology and exploration.
+- [Blade](https://github.com/Mixinors/Blade), adding GUI APIs.
