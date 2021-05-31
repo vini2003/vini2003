@@ -17,6 +17,7 @@ Supporting those projects, were the following mods:
 - [Heal](https://github.com/vini2003/Heal), adding a healing command.
 - [Satiate](https://github.com/vini2003/Satiate), adding a satiating command.
 - [Yummy](https://github.com/vini2003/Yummy), allowing you to eat food multiple times.
+- [Tasker](https://github.com/vini2003/Tasker), allowing you to bind commands to keys, and schedule them on specific intervals.
 
 As for other contributions, most of which happened at the start of my development journey:
 
