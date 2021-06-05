@@ -13,6 +13,7 @@ I work with Kotlin and Java, and am currently doing work for TommyInnit. I've be
 Supporting those projects, were the following mods:
 
 - [No Feedback](https://github.com/vini2003/No-Feedback), removing Minecraft's command feedback.
+- [No Bedrock](https://github.com/vini2003/No-Bedrock), removing Minecraft's bedrock layer.
 - [Toilet](https://github.com/vini2003/Toilet), adding a toilet and a plunger.
 - [Heal](https://github.com/vini2003/Heal), adding a healing command.
 - [Satiate](https://github.com/vini2003/Satiate), adding a satiating command.
