@@ -12,6 +12,8 @@ I work with Kotlin and Java, and am currently doing work for TommyInnit. I've be
 - [Minecraft, But My Friend Is A Wither...](https://www.youtube.com/watch?v=epLQTad1kFU), whose repository is [here](https://github.com/vini2003/Wither-Morph).
 - [Minecraft’s TNT Rain Mod is actually funny...](https://www.youtube.com/watch?v=RKdh459XsP8), whose repository is [here](https://github.com/vini2003/TNT-Rain).
 
+- [I Installed The Girlfriend Mod...](https://www.youtube.com/watch?v=TRigGOh-_ys), whose repository is [here](https://github.com/vini2003/Girlfriend).
+
 Supporting those projects, were the following mods:
 
 - [No Feedback](https://github.com/vini2003/No-Feedback), removing Minecraft's command feedback.
