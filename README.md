@@ -2,7 +2,7 @@ Hey there!
 
 I'm Vinícius, an 18 year old software developer down in southern Brazil (🇧🇷)!
 
-I work with Kotlin and Java, and am currently doing work for TommyInnit. I've been working on this for two years, and enjoy coding both professionaly and recreatively - here's some of the stuff I've worked on so far:
+I work with Kotlin and Java, and am currently doing work for TommyInnit. I've been working on this for two years, and enjoy coding both professionaly and on my free time - here's some of the stuff I've worked on so far:
 
 - [Minecraft’s Black Hole Mod Is Very Funny](https://www.youtube.com/watch?v=cd4ILT8LDoI), whose repository is [here](https://github.com/vini2003/Black-Hole).
 - [Minecraft’s Body Shuffle Mod Is Stupidly Funny](https://www.youtube.com/watch?v=h9stFKuPGa8), whose repository is [here](https://github.com/vini2003/Body-Shuffle).
