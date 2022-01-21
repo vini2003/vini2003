@@ -2,11 +2,14 @@
 
 I'm Vinícius, an 18 year old software developer down in southern Brazil (🇧🇷)!
 
-I work with Kotlin and Java, and am currently doing work for TommyInnit. I've been working on this for nearly three years, and enjoy coding both professionaly and on my free time. I've been directly involved in a few dozen videos and streams, which have only gotten cooler over time! :)
+I work with Kotlin and Java, and am currently doing work for [TommyInnit](https://www.youtube.com/c/TommyInnit/). I've been working on this for nearly three years, and enjoy coding both professionaly and on my free time. I've been directly involved in a few dozen videos and streams, which have only gotten cooler over time! :)
 
 Below are some of the projects I've directly worked on and/or managed - take a look!
 
 **Developed, Managed**
+
+- **Origins SMP** - I develop mods for, and manage, the Origins SMP! Currently played by over a dozen famous streamers.
+- **Tommy SMP** - I also develop mods for, and manage, TommyInnit's private SMP! Also played by multiple streamers.
 
 - [Minecraft's Funniest YouTuber Talent Show...](https://www.youtube.com/watch?v=a3ejYq70wps&t=264s), whose repositores are private.
 - [Minecraft's Funniest YouTuber Hunger Games...](https://www.youtube.com/watch?v=OCSfKNhe-FU&t=1768s), whose repositores are private.
