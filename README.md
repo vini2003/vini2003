@@ -1,23 +1,51 @@
-Hey there!
+**Hey there!**
 
 I'm Vinícius, an 18 year old software developer down in southern Brazil (🇧🇷)!
 
-I work with Kotlin and Java, and am currently doing work for TommyInnit. I've been working on this for two years, and enjoy coding both professionaly and on my free time - here's some of the stuff I've worked on so far:
+I work with Kotlin and Java, and am currently doing work for TommyInnit. I've been working on this for nearly three years, and enjoy coding both professionaly and on my free time. I've been directly involved in a few dozen videos and streams, which have only gotten cooler over time! :)
+
+Below are some of the projects I've directly worked on and/or managed - take a look!
+
+**Developed, Managed**
+
+- [Minecraft's Funniest YouTuber Talent Show...](https://www.youtube.com/watch?v=a3ejYq70wps&t=264s), whose repositores are private.
+- [Minecraft's Funniest YouTuber Hunger Games...](https://www.youtube.com/watch?v=OCSfKNhe-FU&t=1768s), whose repositores are private.
+
+- [I Installed The Girlfriend Mod...](https://www.youtube.com/watch?v=TRigGOh-_ys), whose repository is [here](https://github.com/vini2003/Girlfriend).
 
 - [Minecraft’s Black Hole Mod Is Very Funny](https://www.youtube.com/watch?v=cd4ILT8LDoI), whose repository is [here](https://github.com/vini2003/Black-Hole).
 - [Minecraft’s Body Shuffle Mod Is Stupidly Funny](https://www.youtube.com/watch?v=h9stFKuPGa8), whose repository is [here](https://github.com/vini2003/Body-Shuffle).
 - [Minecraft’s Gas Mod is actually funny...](https://www.youtube.com/watch?v=UFZ5EMTcehA), whose repository is [here](https://github.com/vini2003/Harmful-Gas).
+- [Minecraft’s TNT Rain Mod is actually funny...](https://www.youtube.com/watch?v=RKdh459XsP8), whose repository is [here](https://github.com/vini2003/TNT-Rain).
+
 - [Minecraft, But The Floor Is Lava...](https://www.youtube.com/watch?v=rLSSaUv6DwQ), whose repository is [here](https://github.com/vini2003/Void-Rising).
 - [Minecraft, But The Void Is Rising...](https://www.youtube.com/watch?v=rLSSaUv6DwQ), whose repository is [here](https://github.com/vini2003/The-Floor-Is-Lava).
 - [Minecraft, But My Friend Is A Wither...](https://www.youtube.com/watch?v=epLQTad1kFU), whose repository is [here](https://github.com/vini2003/Wither-Morph).
-- [Minecraft’s TNT Rain Mod is actually funny...](https://www.youtube.com/watch?v=RKdh459XsP8), whose repository is [here](https://github.com/vini2003/TNT-Rain).
 
-- [I Installed The Girlfriend Mod...](https://www.youtube.com/watch?v=TRigGOh-_ys), whose repository is [here](https://github.com/vini2003/Girlfriend).
+- [You Laugh You Lose Is Even Funnier in Minecraft...](https://www.youtube.com/watch?v=yD_s4K199jc), whose repositores are private.
+
+
+**Managed**
+
+- [Minecraft's Surgery Mod is actually funny...](https://www.youtube.com/watch?v=9wvzFOcwI40)
+- [Minecraft's Funniest You Laugh You Lose...](https://www.youtube.com/watch?v=-SDtMXExr_g)
+- [Minecraft's Time Freeze Mod is Hilarious!](https://www.youtube.com/watch?v=76aQGDv-O8s)
+- [Escaping Minecraft's Funniest Prison...](https://www.youtube.com/watch?v=KbhtubTmWaw)
+- [Minecraft's Portal Gun Mod is Stupidly Funny](https://www.youtube.com/watch?v=d7d8UueL_tw)
+- [Minecraft, But We're All Mutant Superhumans...](https://www.youtube.com/watch?v=oSzziSyV7vU)
+- [I Tried Making Grian Swear...](https://www.youtube.com/watch?v=WDBeFoZxhIc)
+- [I Bought the World's Largest Keyboard](https://www.youtube.com/watch?v=f6neC_O2MNc)
+- [I went on my First Date in Minecraft...](https://www.youtube.com/watch?v=r_ltC5vjq04)
+- [Corpse joined my Minecraft server. Now he hates me.](https://www.youtube.com/watch?v=IltbJlVL1qY)
+- [We Made DanTDM Finally Swear...](https://www.youtube.com/watch?v=jOh8tKzkcBM)
+- [We Ruined MrBeast's $10,000 Minecraft Mod...](https://www.youtube.com/watch?v=g6dMBAXeOyQ)
+-
 
 Supporting those projects, were the following mods:
 
 - [No Feedback](https://github.com/vini2003/No-Feedback), removing Minecraft's command feedback.
 - [No Bedrock](https://github.com/vini2003/No-Bedrock), removing Minecraft's bedrock layer.
+- [No Tubbo](https://github.com/vini2003/No-Bedrock), automatically kicking Tubbo from the 30 Day SMP.
 - [Toilet](https://github.com/vini2003/Toilet), adding a toilet and a plunger.
 - [Heal](https://github.com/vini2003/Heal), adding a healing command.
 - [Satiate](https://github.com/vini2003/Satiate), adding a satiating command.
