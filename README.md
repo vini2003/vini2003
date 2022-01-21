@@ -39,7 +39,6 @@ Below are some of the projects I've directly worked on and/or managed - take a l
 - [Corpse joined my Minecraft server. Now he hates me.](https://www.youtube.com/watch?v=IltbJlVL1qY)
 - [We Made DanTDM Finally Swear...](https://www.youtube.com/watch?v=jOh8tKzkcBM)
 - [We Ruined MrBeast's $10,000 Minecraft Mod...](https://www.youtube.com/watch?v=g6dMBAXeOyQ)
--
 
 Supporting those projects, were the following mods:
 
