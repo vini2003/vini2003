@@ -1,3 +1,5 @@
+[![vini2003's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=vini2003)](https://github.com/anuraghazra/github-readme-stats)
+
 **Hey there!**
 
 I'm Vinícius, an 18 year old software developer down in southern Brazil (🇧🇷)!
