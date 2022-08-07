@@ -1,4 +1,4 @@
-[![vini2003's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=vini2003)](https://github.com/anuraghazra/github-readme-stats)
+![vini2003's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=vini2003&count_private=true&theme=dark)
 
 **Hey there!**
 
