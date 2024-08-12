@@ -2,9 +2,9 @@
 
 **Hey there!**
 
-I'm Vinícius, a 20 year old software developer down in southern Brazil (🇧🇷)!
+I'm Vinícius, a 21 year old software developer down in southern Brazil (🇧🇷)!
 
-I work with Kotlin and Java, and am currently doing work for [TommyInnit](https://www.youtube.com/c/TommyInnit/). I've been working on this for nearly three years, and enjoy coding both professionaly and on my free time. I've been directly involved in a few dozen videos and streams, which have only gotten cooler over time! :)
+I work with Kotlin and Java, having worked for [TommyInnit](https://www.youtube.com/c/TommyInnit/) during four years, and currently working for a large media production company focused in game development since the start of 2024.
 
 Below are some of the projects I've directly worked on and/or managed - take a look!
 
